@@ -10,10 +10,10 @@
 //     document.querySelector("#showname").innerHTML=username
 //  console.log(username)
 // }
-let click1=(xyz)=>{
+let click1 = (abc)=>{
   
-    console.log(xyz.src);
-  document.querySelector(".box").src=xyz.src
+    console.log(abc.src);
+  document.querySelector(".box").src = abc.src
 
 
 }

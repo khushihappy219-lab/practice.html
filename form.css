@@ -1,11 +1,12 @@
 #Box{
-    width : 100px ;
-    height : 100vh ;
+    width : 50% ;
+    height : 100% ;
     box-sizing: border-box;
     border: 4px solid black;
-    background-color: brown;
-    display: flex;
-    justify-content: center;
+    background-color: rgb(61, 92, 179);
+    display: grid;
     align-items: center;
+    justify-content: center;
+    color: antiquewhite;
 
 }

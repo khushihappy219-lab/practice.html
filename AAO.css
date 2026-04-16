@@ -1,0 +1,33 @@
+#show {
+    
+    height:100vh;
+    color:black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    border: 2px solid black;
+    }
+
+    #show2{
+    
+    height:100vh;
+    color:black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    border: 2px solid black;
+    }
+
+    #show3 {
+    
+    height:100vh;
+    color:black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    }
